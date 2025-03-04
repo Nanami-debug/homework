@@ -1,0 +1,14 @@
+D:\cpp\SCF_Homework_2.4\SCF_Homework_2.4\bin\Debug\net8.0\SCF_Homework_2.4.exe
+D:\cpp\SCF_Homework_2.4\SCF_Homework_2.4\bin\Debug\net8.0\SCF_Homework_2.4.deps.json
+D:\cpp\SCF_Homework_2.4\SCF_Homework_2.4\bin\Debug\net8.0\SCF_Homework_2.4.runtimeconfig.json
+D:\cpp\SCF_Homework_2.4\SCF_Homework_2.4\bin\Debug\net8.0\SCF_Homework_2.4.dll
+D:\cpp\SCF_Homework_2.4\SCF_Homework_2.4\bin\Debug\net8.0\SCF_Homework_2.4.pdb
+D:\cpp\SCF_Homework_2.4\SCF_Homework_2.4\obj\Debug\net8.0\SCF_Homework_2.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\cpp\SCF_Homework_2.4\SCF_Homework_2.4\obj\Debug\net8.0\SCF_Homework_2.4.AssemblyInfoInputs.cache
+D:\cpp\SCF_Homework_2.4\SCF_Homework_2.4\obj\Debug\net8.0\SCF_Homework_2.4.AssemblyInfo.cs
+D:\cpp\SCF_Homework_2.4\SCF_Homework_2.4\obj\Debug\net8.0\SCF_Homework_2.4.csproj.CoreCompileInputs.cache
+D:\cpp\SCF_Homework_2.4\SCF_Homework_2.4\obj\Debug\net8.0\SCF_Homework_2.4.dll
+D:\cpp\SCF_Homework_2.4\SCF_Homework_2.4\obj\Debug\net8.0\refint\SCF_Homework_2.4.dll
+D:\cpp\SCF_Homework_2.4\SCF_Homework_2.4\obj\Debug\net8.0\SCF_Homework_2.4.pdb
+D:\cpp\SCF_Homework_2.4\SCF_Homework_2.4\obj\Debug\net8.0\SCF_Homework_2.4.genruntimeconfig.cache
+D:\cpp\SCF_Homework_2.4\SCF_Homework_2.4\obj\Debug\net8.0\ref\SCF_Homework_2.4.dll
