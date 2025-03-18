@@ -1,0 +1,14 @@
+D:\cpp\SCF_Homework_4.1\SCF_Homework_4.1\bin\Debug\net8.0\SCF_Homework_4.1.exe
+D:\cpp\SCF_Homework_4.1\SCF_Homework_4.1\bin\Debug\net8.0\SCF_Homework_4.1.deps.json
+D:\cpp\SCF_Homework_4.1\SCF_Homework_4.1\bin\Debug\net8.0\SCF_Homework_4.1.runtimeconfig.json
+D:\cpp\SCF_Homework_4.1\SCF_Homework_4.1\bin\Debug\net8.0\SCF_Homework_4.1.dll
+D:\cpp\SCF_Homework_4.1\SCF_Homework_4.1\bin\Debug\net8.0\SCF_Homework_4.1.pdb
+D:\cpp\SCF_Homework_4.1\SCF_Homework_4.1\obj\Debug\net8.0\SCF_Homework_4.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\cpp\SCF_Homework_4.1\SCF_Homework_4.1\obj\Debug\net8.0\SCF_Homework_4.1.AssemblyInfoInputs.cache
+D:\cpp\SCF_Homework_4.1\SCF_Homework_4.1\obj\Debug\net8.0\SCF_Homework_4.1.AssemblyInfo.cs
+D:\cpp\SCF_Homework_4.1\SCF_Homework_4.1\obj\Debug\net8.0\SCF_Homework_4.1.csproj.CoreCompileInputs.cache
+D:\cpp\SCF_Homework_4.1\SCF_Homework_4.1\obj\Debug\net8.0\SCF_Homework_4.1.dll
+D:\cpp\SCF_Homework_4.1\SCF_Homework_4.1\obj\Debug\net8.0\refint\SCF_Homework_4.1.dll
+D:\cpp\SCF_Homework_4.1\SCF_Homework_4.1\obj\Debug\net8.0\SCF_Homework_4.1.pdb
+D:\cpp\SCF_Homework_4.1\SCF_Homework_4.1\obj\Debug\net8.0\SCF_Homework_4.1.genruntimeconfig.cache
+D:\cpp\SCF_Homework_4.1\SCF_Homework_4.1\obj\Debug\net8.0\ref\SCF_Homework_4.1.dll
